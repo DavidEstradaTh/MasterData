@@ -41,3 +41,11 @@ Medio,Alta,Excelente
 Bajo,Alta ,Bueno
 Alto,Baja,Bueno
 Bajo,Medio,Malo
+Bajo,Bajo,Malo
+Alto,Baja,Bueno
+Medio,Alta,Excelente
+Bajo,Alta ,Bueno
+Alto,Baja,Bueno
+Bajo,Medio,Malo
+Bajo,Medio,Malo
+Bajo,Medio,Malo
