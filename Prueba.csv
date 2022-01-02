@@ -5,3 +5,7 @@ Bajo,Alta ,Bueno
 Alto,Baja,Bueno
 Bajo,Medio,Malo
 Medio,Medio,Bueno
+Alto,Medio,Excelente
+Bajo,Bajo,Malo
+Alto,Baja,Bueno
+Medio,Alta,Excelente
