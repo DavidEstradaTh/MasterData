@@ -1,3 +1,4 @@
+sep=,
 date,in_hospital,indicator,life_expectancy,new_cases,new_deaths,new_tests,new_vaccinations,people_fully_vaccinated,people_vaccinated,total_cases,total_vaccinations
 2022-01-27T00:00:00.000Z,43015,Daily ICU occupancy,69.29811403508772,16250920,43186,0,69496481,14454886853,17035689345,1548228059,38392760047
 2022-01-26T00:00:00.000Z,44925,Daily ICU occupancy,69.29811403508772,16600564,45700,6529931,98417101,14874145874,17492975278,1531977139,39540839961
